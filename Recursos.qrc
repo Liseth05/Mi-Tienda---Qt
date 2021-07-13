@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Imagenes">
+        <file>C:/Users/Usuario/Downloads/supermercado.png</file>
+        <file>C:/Users/Usuario/Downloads/nuevo.png</file>
+    </qresource>
+</RCC>
